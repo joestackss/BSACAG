@@ -589,7 +589,7 @@ pre code {
 }
 
 .container {
-  width: 100%;
+  width: 95%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -13246,9 +13246,8 @@ textarea.form-control {
 /* OUR PARTNERS */
 .partners {
   margin: 8em 0;
+  max-width: 100%;
 }
-
-.partners .container {}
 
 .partners .customer-logos {
   width: 100%;
