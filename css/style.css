@@ -4593,6 +4593,10 @@ input[type="button"].btn-block {
   white-space: nowrap;
 }
 
+.navbar-brand img {
+  max-width: 90%;
+}
+
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
@@ -13267,6 +13271,8 @@ textarea.form-control {
 .partners .colu-1 img {
   max-width: 70%;
 }
+
+
 
 
 /* MEDIA QUERIES TABLETS */
